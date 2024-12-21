@@ -19,7 +19,7 @@
             >
                 <thead>
                     <tr>
-                        <th scope="col">NOMBRE</th>
+                        <th scope="col">Nombre</th>
                         <th scope="col">Saldo</th>
                         <th scope="col">Acciones</th>
                     </tr>
