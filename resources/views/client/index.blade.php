@@ -19,7 +19,7 @@
             >
                 <thead>
                     <tr>
-                        <th scope="col">Nombre</th>
+                        <th scope="col">NOMBRE</th>
                         <th scope="col">Saldo</th>
                         <th scope="col">Acciones</th>
                     </tr>
@@ -39,7 +39,7 @@
                             </td>
                         </tr>
                     @empty
-                        <tr aria-colspan="3">No Hay Registros!</tr>
+                        <tr aria-colspan="3">No Hay Registros aun!</tr>
                     @endforelse
 
                 </tbody>
